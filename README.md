@@ -109,7 +109,7 @@ src/main/java/aog/rickymortyapp/
 - **Problema**: Carga de muchos datos simultáneamente
 - **Solución**: Procesamiento por lotes y limpieza de recursos
 
-## Conceptos Académicos Demostrados
+## Conceptos Académicos Adquiridos
 
 - **Consumo de APIs REST**: Peticiones HTTP con Jackson para JSON
 - **Programación Concurrente**: Threads, Semaphores, sincronización
