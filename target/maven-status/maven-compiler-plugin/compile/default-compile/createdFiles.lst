@@ -1,0 +1,12 @@
+aog\rickymortyapp\viewModel\RickAndMortyViewModel.class
+aog\rickymortyapp\model\Charac.class
+aog\rickymortyapp\view\DataView$EpisodeListCellRenderer.class
+aog\rickymortyapp\model\Info.class
+aog\rickymortyapp\Main.class
+aog\rickymortyapp\model\PaginatedResponse.class
+aog\rickymortyapp\view\DataView$CharacterListCellRenderer.class
+aog\rickymortyapp\view\DataView.class
+aog\rickymortyapp\view\StartView.class
+aog\rickymortyapp\service\ApiService.class
+aog\rickymortyapp\service\ApiService$1.class
+aog\rickymortyapp\model\Episode.class
