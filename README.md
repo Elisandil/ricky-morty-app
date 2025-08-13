@@ -114,9 +114,9 @@ src/main/java/aog/rickymortyapp/
 - **Consumo de APIs REST**: Peticiones HTTP con Jackson para JSON
 - **Programación Concurrente**: Threads, Semaphores, sincronización
 - **Patrones de Diseño**: MVVM, Observer (callbacks)
-- **Manejo de Errores**: Try-catch, reintentos, fallbacks
+- **Manejo de Errores**: Try-catch, reintentos
 - **Interfaz Gráfica**: Swing, event handling, threading en UI
-- **Gestión de Dependencias**: Maven, estructura de proyecto
+- **Gestión de Dependencias**: Maven
 
 ## Autor
 
