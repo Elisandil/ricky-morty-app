@@ -73,14 +73,14 @@ src/main/java/aog/rickymortyapp/
 - **Procesamiento por lotes**: Personajes cargados en grupos de 3
 - **Timeouts**: Configurados para evitar bloqueos
 
-## 📊 Rendimiento
+## Rendimiento
 
 - **~51 episodios** cargados desde la API
 - **~Múltiples personajes** únicos procesados
 - **Manejo resiliente** de errores HTTP 429
 - **Tiempo de carga**: ~2-3 minutos (en mi experiencia)
 
-## 📸 Screenshots
+## Screenshots
 
 ### Pantalla de Inicio
 ![Pantalla de Inicio](assets/screenshot01.png)
