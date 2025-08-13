@@ -84,6 +84,7 @@ src/main/java/aog/rickymortyapp/
 
 ### Pantalla de Inicio
 ![Pantalla de Inicio](assets/screenshot01.png)
+
 *Interfaz principal con botones de inicio e información*
 
 ### Vista de Datos - Episodios por Temporada
