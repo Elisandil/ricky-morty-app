@@ -120,13 +120,11 @@ src/main/java/aog/rickymortyapp/
 
 ## Autor
 
-Proyecto desarrollado como miniproyecto de clase para demostrar:
-- Integración con APIs externas
-- Manejo de concurrencia en Java
+Proyecto desarrollado como miniproyecto de clase
 
 ## Notas del Desarrollo
 
-Este proyecto fue diseñado con fines educativos para mostrar:
+Este proyecto fue diseñado para mostrar:
 1. Cómo consumir una API REST real
 2. Manejo de respuestas asíncronas y concurrencia
 
