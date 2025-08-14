@@ -118,15 +118,15 @@ src/main/java/aog/rickymortyapp/
 - **Interfaz Gráfica**: Swing, event handling, threading en UI
 - **Gestión de Dependencias**: Maven
 
-## Autor
-
-Proyecto desarrollado como miniproyecto de clase
-
 ## Notas del Desarrollo
 
 Este proyecto fue diseñado para mostrar:
 1. Cómo consumir una API REST real
 2. Manejo de respuestas asíncronas y concurrencia
+
+## Autor
+
+Proyecto desarrollado como miniproyecto de clase por Antonio Ortega.
 
 ## Licencia
 
