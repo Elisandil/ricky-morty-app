@@ -95,7 +95,7 @@ src/main/java/aog/rickymortyapp/
 ![Personajes](assets/screenshot03.png)
 *Navegación por temporadas y visualización de personajes que aparecen en cada episodio*
 
-## 🐛 Solución de Problemas Conocidos
+## Solución de Problemas Conocidos
 
 ### Error HTTP 429 (Too Many Requests)
 - **Problema**: La API limita las peticiones por minuto
